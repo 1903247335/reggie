@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25b7dede-2d32-4ea1-a053-0842f9b1126f" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/07-信息传递.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/100-三角中最小路径之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/1025-除数博弈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/1035-不相交的线.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/105-从前序与中序遍历序列构造二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/106-从中序与后序遍历序列构造二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/11-盛最多水的容器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/1137-第N个波泰那契数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/1143-最长公共子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/115-不同的子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/12-整数转罗马数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/120-三角形最小路径和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/122-买卖股票的最佳时机2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/122-购买股票的最佳时机2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/128-最长连续序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/139-单词拆分.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/144-二叉树的前序遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/145-二叉树的后续遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/16-最接近三数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/1646-获取生成数组中最大值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/166-分数到小数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/167-两数之和2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/1678-设计goal解析器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/18-四数之和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/198-打家劫舍.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/213-打家劫舍2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/22-括号生成.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/222-完全二叉树的节点个数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/236-二叉树的最近公共祖先.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/264-丑数2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/279-完全平方数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/287-寻找重复数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/3-无重复字符的最长子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/300-最长递增子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/322-零钱兑换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/33-搜索旋转排序数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/347-前k个高频元素.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/36-有效数独.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/377-组合总和4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/38-外观数列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/4-寻找两个正序数组的中位数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/40-组合总和2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/43-字符串相乘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/45-跳跃游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/450-删除二叉搜索树中的节点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/474-一和零.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/50-pow(x,n).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/501-二叉搜索树中的众数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/503-下一个更大元素2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/51-N皇后.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/513-找树左下角的值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/518-零钱兑换2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/53-最大子数组和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/530-二叉树的最小绝对值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/538-二叉搜索树转换为累加树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/55-跳跃游戏.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/583-两个字符串的删除操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/6-Z变形字换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/617-合并二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/64-最小路径和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/645-最大二叉树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/647-回文子串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/674-最长连续递增序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/700-二叉搜索树中的搜索.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/701-二叉搜索树的插入操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/71-简化路径.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/718-最长重复子数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/72-编辑距离.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/739-每日温度.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/744-寻找比目标字母大的最小字母.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/888-公平的糖果交换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/91-解码方法’.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/94-二叉树的中序遍历.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/95-不同的二叉搜索树2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/97-交错字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/98-验证二叉搜索树.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/offer47.礼物的最大价值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/offfer101-分割等和子集.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leecode题库/买卖股票最佳时机3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/Analysis-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/EXE-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/PKG-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/PYZ-00.pyz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/PYZ-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/Tree-00.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/Tree-01.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/Tree-02.toc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/base_library.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/warn-图片爬取.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/xref-图片爬取.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/图片爬取.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/build/图片爬取/图片爬取.pkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/图片爬取.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/dist/金毛/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/图片爬取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/图片爬取程序/图片爬取.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/学习案例/cookie登录/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/学习案例/代理ip/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/学习案例/赚钱吧题库爬取/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day01/TCPIP协议及配置、总结和答疑.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day01/TCPIP协议及配置、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day02/Linux基本操作、总结和答疑.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day02/Linux基本操作、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day02/Linux系统简介、安装Linux系统.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day02/Linux系统简介、安装Linux系统.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day03/命令行基础、目录及文件管理.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day03/命令行基础、目录及文件管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day03/文本内容操作、总结和答疑.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day03/文本内容操作、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day04/find精确查找、vim高级使用、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day04/归档及压缩、重定向与管道操作.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day05/RPM软件包管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day05/Yum软件包仓库、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day06/用户管理、组账号管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ADMIN/Day06/计划任务、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ENGINEER/Day01/ACL策略管理、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ENGINEER/Day01/基本权限和归属、附加权限.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ENGINEER/Day02/交换空间、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ENGINEER/Day02/磁盘空间管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ENGINEER/Day03/RAID磁盘阵列、进程管理、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ENGINEER/Day03/逻辑卷管理、VDO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ENGINEER/Day04/日志管理、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ENGINEER/Day04/配置Linux网络.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ENGINEER/Day05/SELinux、系统故障修复、防火墙策略管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/ENGINEER/Day05/服务管理、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/NETWORK/Day01/交换机命令行配置、数据链路层解析、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/NETWORK/Day01/计算机网络、网络通信参考模型、交换机命令行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/NETWORK/Day02/VLAN技术及应用、TRUNK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/NETWORK/Day02/网络层解析、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/NETWORK/Day03/ACL、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/NETWORK/Day03/OSPF、传输层.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/NETWORK/Day04/NAT、VRRP.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/NETWORK/Day04/总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/NETWORK/Day05/Linux网络、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/NETWORK/Day05/数制、无类网络、ipv6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/SERVICES/Day01/Web基础应用、NFS服务基础.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/SERVICES/Day01/触发挂载、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/SERVICES/Day02/DNS服务基础、邮件的收发.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/SERVICES/Day02/NTP时间同步、网络YUM仓库、自定义Yum仓库、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/SERVICES/Day03/数据库基础、命令补充、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/SERVICES/Day03/源码编译安装、rsync本地同步、rsync远程同步.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/SERVICES/Day04/Linux容器基础、Linux容器管理、podman命令行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第一阶段/SERVICES/Day04/管理容器进阶、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT1/Day01/总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT1/Day01/服务器硬件、部署LNMP动态网站.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT1/Day02/Web服务器集群、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT1/Day02/网站架构演变、LNP+Mariadb数据库分离.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT1/Day03/Keepalived高可用、部署Ceph分布式存储.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT1/Day03/串讲复习.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT1/Day03/总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT2/Day01/Git进阶、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT2/Day02/CICD 概述、部署 Jenkins、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT2/Day02/python阶段总复习.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT2/Day02/部署 GitLab、配置 GitLab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT2/Day03/Jenkins 项目管理、构建分发服务器.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PROJECT2/Day03/自动化上线、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON1/Day01/Python概述、环境准备、Python起步.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON1/Day01/数据类型概述、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON1/Day02/for循环、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON1/Day02/判断语句、while循环.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON1/Day03/函数基础、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON1/Day03/文件对象、文件读写操作.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON1/Day04/模块基础、时间模块.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON1/Day04/语法风格及布局、字符串详解、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON1/Day05/列表和元组、字典.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON1/Day05/集合、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day01/shutil和os模块、subprocess模块.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day01/异常处理、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day02/函数高级应用、生成器.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day02/模块详解、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day03/OOP基础、OOP实践.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day03/OOP进阶、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day04/Python模块管理、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day04/re模块、多线程编程.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day05/PyMySQL模块、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day05/邮件编程、paramiko模块.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day06/JSON、requests模块.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第三阶段/PYTHON2/Day06/案例练习、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/AUTOMATION/Day01/Ansible ad-hoc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/AUTOMATION/Day01/Ansible模块、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/AUTOMATION/Day02/Ansible变量、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/AUTOMATION/Day02/YAML语法、Ansible Playbook剧本.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/AUTOMATION/Day03/Ansible Role、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/AUTOMATION/Day03/Ansible进阶.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/AUTOMATION/Day04/普通用户使用ansible、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/AUTOMATION/Day04/项目练习、Ansible Vault.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/CLUSTER/Day01/LVS-DR集群、总结与答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/CLUSTER/Day01/集群及LVS简介、LVS-NAT集群.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/CLUSTER/Day02/HAProxy服务器、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/CLUSTER/Day02/Keepalived热备、Keepalived+LVS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/CLUSTER/Day03/Ceph块存储、总结与答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/CLUSTER/Day03/Ceph概述、部署Ceph集群.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/CLUSTER/Day04/块存储应用案例、分布式文件系统.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/CLUSTER/Day04/对象存储、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day01/HTTPS加密网站、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day01/Nginx安装、用户认证、Nginx虚拟主机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day02/Nginx高级技术、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day02/部署LNMP、Nginx+FastCGI.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day03/Nginx代理服务器.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day03/Nginx优化、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day04/Session与Cookie、部署memcached.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day04/Session共享、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day05/Maven应用案例、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day05/Tomcat服务器、Tomcat应用案例.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day06/VPN服务器、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day06/串讲复习.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/OPERATION/Day06/软件包管理、systemd服务管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SECURITY/Day01/Zabbix监控服、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SECURITY/Day01/监控概述、Zabbix基础.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SECURITY/Day02/Zabbix报警机制、Zabbix进阶操作.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SECURITY/Day02/监控案例、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SECURITY/Day03/Prometheus服务器、Prometheus被监控端、Grafana.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SECURITY/Day03/监控数据库、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SECURITY/Day04/Kali系统、扫描与抓包、SSH基本防护.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SECURITY/Day04/服务安全、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SECURITY/Day05/iptables防火墙、filter表控制、扩展匹配.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SECURITY/Day05/nat表典型应用、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SHELL/Day01/Shell概述、编写及执行脚本、Shell变量.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SHELL/Day01/数值运算、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SHELL/Day02/循环结构、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SHELL/Day02/条件测试、if选择结构.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SHELL/Day03/case语句、函数及中断控制.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SHELL/Day03/字符串处理、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SHELL/Day04/sed应用案例、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SHELL/Day04/正则表达式、sed基本用法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SHELL/Day05/awk基本用法、awk应用案例.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第二阶段/SHELL/Day05/综合脚本、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day01/云计算底层技术奥秘、虚拟化管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day01/公有云概述、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day02/云项目实战、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day02/华为云管理、云主机管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day03/kibana、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day03/华为云项目实战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day03/日志分析系统ELK、Elasticsearch.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day04/Logstash、Web日志实时分析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day04/总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day05/docker配置管理、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day05/容器技术概述、镜像与容器.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day06/容器镜像技术揭秘、发布容器服务器.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD1/Day06/私有镜像仓库、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day01/flannel网络插件、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day01/原生云K8S解密、K8S集群安装部署.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day02/kubectl命令详解、Pod创建过程、相位状态.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day02/资源对象文件详解、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day03/Pod调度策略、Pod标签管理、Pod资源配额.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day03/k8s pod拍错案例精解.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day03/资源监控工具、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day04/Pod污点、容忍策略、Pod优先级与抢占.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day04/容器安全、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day05/PVPVC管理、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day05/存储卷管理、临时卷、持久卷.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day06/service管理、Ingress管理、Dashboard管理插件.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day06/角色与权限、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day07/控制器详解、Headless服务、弹性云.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day07/职业生涯规划.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/CLOUD2/Day07/项目实战、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day01/jumpserver跳板机搭建，测试、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day01/项目概述、跳板机概述.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day02/Harbor仓库搭建、镜像制作，测试.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day02/总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day03/云容器集群创建，使用、构建日志分析平台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day03/总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day04/云容器集群与日志分析平台应用.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day04/基础命令.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day04/总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day04/数据库基础、进阶.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day04/简历，项目文库就业指导.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day04/网络，自动化运维，CICD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第五阶段/PROJECT4/Day04/面试题讲解.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/NOSQL/Day01/NoSQL概述、部署Redis服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/NOSQL/Day01/部署LNP+Redis、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/NOSQL/Day02/环境准备、创建集群.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/NOSQL/Day02/管理集群、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/NOSQL/Day03/主从复制、持久化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/NOSQL/Day03/数据类型、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/PROJECT3/Day01/配置网站服务、测试配置、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/PROJECT3/Day01/项目概述、部署数据库服务mysql.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/PROJECT3/Day02/数据迁移（PXC）、部署集群、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/PROJECT3/Day02/聊聊就业.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/PROJECT3/Day02/项目概述、部署缓存服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS1/Day01/基础查询、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS1/Day01/数据库概述、部署MySQL服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS1/Day02/基础查询进阶、内连接查询.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS1/Day02/外连接查询、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS1/Day03/子查询、表管理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS1/Day03/数据类型、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS1/Day04/字段高级约束、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS1/Day04/数据导入导出、字段基本约束.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS1/Day05/完全备份、增量备份.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS1/Day05/实时备份、总结和答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS2/Day01/MySQL视图、MySQL存储过程、总结与答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS2/Day01/用户管理、MySQL索引.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS2/Day02/MySQL主从同步基础.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS2/Day02/MySQL主从同步进阶、总结与答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS2/Day03/MySQL存储引擎.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS2/Day03/MySQL数据读写分离、总结与答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS2/Day04/分片规则、总结与答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS2/Day04/数据分片概述、部署MyCAT服务.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS2/Day05/MHA集群概述、部署集群环境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/977880/第四阶段/RDBMS2/Day05/创建集群、总结与答疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/json977880.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/达达慕课网爬取/json986377.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/题库爬取/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../spider/题库爬取/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/blog-parent/blog-admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/blog-parent/blog-framework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/blog-parent/blog-frontend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fontEnd/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../学习案例/学习案例.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/page2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/page3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/page5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/page6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/back6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/bg6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/btn4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/fanhui.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/gril.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/mainbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/promise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/promisepng.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/sun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/xing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/xingxing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/yinle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/亚健康指数.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/js/page2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/js/page3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/js/page6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/page5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/page6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/css/basic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/css/p2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/css/p3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/css/p4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/1small_cattle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/2left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/2right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/2卡通烟花炮竹火花.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/3.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/4.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/5.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/6.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/7.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/8.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/bg4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/progress_bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/yinle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/卡通烟花炮竹火花.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/小提示：全部答对获取祝福哦~.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/开始猜灯谜.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/我要猜灯谜.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/打 一 产 品.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/打 一 成 语.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/答 对 啦   ！ 拷贝.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/js/p2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/js/p3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/js/p4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/media/2021-2022 - 快捷方式.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/media/lalala.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/media/金牛闹元宵录屏视频.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/p2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/p3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/p4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/录屏/金牛闹元宵录屏视频.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/3.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/4.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/5.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/6.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/7.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/8.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/chi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/二维码和条形码/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/二维码和条形码/qcode.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/二维码和条形码/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/文档扫描/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/文档扫描/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/答题卡扫描/card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/答题卡扫描/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/答题卡扫描/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/车辆统计/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/高亮文字识别/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/高亮文字识别/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/高亮文字识别/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/高亮文字识别/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/高亮文字识别/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/高亮文字识别/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/高亮文字识别/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图像识别/高亮文字识别/test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/app.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/components/test/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/components/test/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/components/test/test.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/components/test/test.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/custom-tab-bar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/custom-tab-bar/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/custom-tab-bar/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/custom-tab-bar/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/images/link-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/images/link-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/images/tabs/contact-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/images/tabs/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/images/tabs/home-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/images/tabs/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/images/tabs/message-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/images/tabs/message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/miniprogram_npm/miniprogram-api-promise/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/miniprogram_npm/miniprogram-api-promise/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/miniprogram_npm/mobx-miniprogram-bindings/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/miniprogram_npm/mobx-miniprogram/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pageA/pages/dog/dog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pageA/pages/dog/dog.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pageA/pages/dog/dog.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pageA/pages/dog/dog.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pageB/pages/cat/cat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pageB/pages/cat/cat.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pageB/pages/cat/cat.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pageB/pages/cat/cat.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/contact/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/contact/contact.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/contact/contact.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/contact/contact.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/contact/contact.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/index/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/index/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/index/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/index/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/logs/logs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/logs/logs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/logs/logs.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/logs/logs.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/message/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/message/message.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/message/message.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/pages/message/message.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/project.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/project.private.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/sitemap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/test/utils/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/app.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/images/link-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/images/link-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/images/tabs/contact-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/images/tabs/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/images/tabs/home-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/images/tabs/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/images/tabs/message-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/images/tabs/message.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/contact/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/contact/contact.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/contact/contact.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/contact/contact.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/index/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/index/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/index/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/index/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/logs/logs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/logs/logs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/logs/logs.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/logs/logs.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/message/message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/message/message.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/message/message.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/message/message.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/shoplist/shoplist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/shoplist/shoplist.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/shoplist/shoplist.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/pages/shoplist/shoplist.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/project.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/project.private.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/sitemap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/本地生活/utils/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/pages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/c1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/c2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/c3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/c4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/c5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/c6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/c7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/c8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/c9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/customicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/customicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/static/uni.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-badge/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-badge/components/uni-badge/uni-badge.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-badge/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-badge/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-breadcrumb/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-breadcrumb/components/uni-breadcrumb-item/uni-breadcrumb-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-breadcrumb/components/uni-breadcrumb/uni-breadcrumb.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-breadcrumb/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-breadcrumb/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-calendar/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-calendar/components/uni-calendar/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-calendar/components/uni-calendar/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-calendar/components/uni-calendar/i18n/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-calendar/components/uni-calendar/i18n/zh-Hans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-calendar/components/uni-calendar/i18n/zh-Hant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-calendar/components/uni-calendar/uni-calendar-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-calendar/components/uni-calendar/uni-calendar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-calendar/components/uni-calendar/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-calendar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-calendar/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-card/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-card/components/uni-card/uni-card.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-card/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-card/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-collapse/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-collapse/components/uni-collapse-item/uni-collapse-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-collapse/components/uni-collapse/uni-collapse.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-collapse/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-collapse/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-combox/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-combox/components/uni-combox/uni-combox.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-combox/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-combox/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-countdown/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-countdown/components/uni-countdown/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-countdown/components/uni-countdown/i18n/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-countdown/components/uni-countdown/i18n/zh-Hans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-countdown/components/uni-countdown/i18n/zh-Hant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-countdown/components/uni-countdown/uni-countdown.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-countdown/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-countdown/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-checkbox/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-checkbox/components/uni-data-checkbox/uni-data-checkbox.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-checkbox/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-checkbox/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-picker/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-picker/components/uni-data-picker/keypress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-picker/components/uni-data-picker/uni-data-picker.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-picker/components/uni-data-pickerview/uni-data-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-picker/components/uni-data-pickerview/uni-data-pickerview.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-picker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-picker/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-select/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-select/components/uni-data-select/uni-data-select.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-select/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-data-select/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-dateformat/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-dateformat/components/uni-dateformat/date-format.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-dateformat/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-dateformat/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/components/uni-datetime-picker/calendar-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/components/uni-datetime-picker/calendar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/components/uni-datetime-picker/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/components/uni-datetime-picker/i18n/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/components/uni-datetime-picker/i18n/zh-Hans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/components/uni-datetime-picker/i18n/zh-Hant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/components/uni-datetime-picker/keypress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/components/uni-datetime-picker/time-picker.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/components/uni-datetime-picker/uni-datetime-picker.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/components/uni-datetime-picker/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-datetime-picker/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-drawer/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-drawer/components/uni-drawer/keypress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-drawer/components/uni-drawer/uni-drawer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-drawer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-drawer/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-easyinput/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-easyinput/components/uni-easyinput/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-easyinput/components/uni-easyinput/uni-easyinput.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-easyinput/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-easyinput/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fab/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fab/components/uni-fab/uni-fab.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fab/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fab/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fav/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fav/components/uni-fav/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fav/components/uni-fav/i18n/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fav/components/uni-fav/i18n/zh-Hans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fav/components/uni-fav/i18n/zh-Hant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fav/components/uni-fav/uni-fav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fav/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-fav/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-file-picker/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-file-picker/components/uni-file-picker/choose-and-upload-file.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-file-picker/components/uni-file-picker/uni-file-picker.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-file-picker/components/uni-file-picker/upload-file.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-file-picker/components/uni-file-picker/upload-image.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-file-picker/components/uni-file-picker/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-file-picker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-file-picker/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-forms/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-forms/components/uni-forms-item/uni-forms-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-forms/components/uni-forms/uni-forms.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-forms/components/uni-forms/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-forms/components/uni-forms/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-forms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-forms/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-goods-nav/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-goods-nav/components/uni-goods-nav/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-goods-nav/components/uni-goods-nav/i18n/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-goods-nav/components/uni-goods-nav/i18n/zh-Hans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-goods-nav/components/uni-goods-nav/i18n/zh-Hant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-goods-nav/components/uni-goods-nav/uni-goods-nav.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-goods-nav/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-goods-nav/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-grid/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-grid/components/uni-grid-item/uni-grid-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-grid/components/uni-grid/uni-grid.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-grid/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-grid/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-group/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-group/components/uni-group/uni-group.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-group/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-group/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-icons/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-icons/components/uni-icons/icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-icons/components/uni-icons/uni-icons.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-icons/components/uni-icons/uniicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-icons/components/uni-icons/uniicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-icons/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-icons/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-indexed-list/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-indexed-list/components/uni-indexed-list/uni-indexed-list-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-indexed-list/components/uni-indexed-list/uni-indexed-list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-indexed-list/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-indexed-list/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-link/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-link/components/uni-link/uni-link.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-link/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-link/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/components/uni-list-ad/uni-list-ad.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/components/uni-list-chat/uni-list-chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/components/uni-list-chat/uni-list-chat.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/components/uni-list-chat/uni-list-chat.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/components/uni-list-chat/uni-list-chat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/components/uni-list-item/uni-list-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/components/uni-list/uni-list.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/components/uni-list/uni-refresh.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/components/uni-list/uni-refresh.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-list/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-load-more/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-load-more/components/uni-load-more/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-load-more/components/uni-load-more/i18n/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-load-more/components/uni-load-more/i18n/zh-Hans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-load-more/components/uni-load-more/i18n/zh-Hant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-load-more/components/uni-load-more/uni-load-more.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-load-more/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-load-more/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-nav-bar/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-status-bar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-nav-bar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-nav-bar/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-notice-bar/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-notice-bar/components/uni-notice-bar/uni-notice-bar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-notice-bar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-notice-bar/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-number-box/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-number-box/components/uni-number-box/uni-number-box.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-number-box/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-number-box/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-pagination/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-pagination/components/uni-pagination/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-pagination/components/uni-pagination/i18n/es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-pagination/components/uni-pagination/i18n/fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-pagination/components/uni-pagination/i18n/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-pagination/components/uni-pagination/i18n/zh-Hans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-pagination/components/uni-pagination/i18n/zh-Hant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-pagination/components/uni-pagination/uni-pagination.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-pagination/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-pagination/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/components/uni-popup-dialog/keypress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/components/uni-popup-dialog/uni-popup-dialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/components/uni-popup-message/uni-popup-message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/components/uni-popup-share/uni-popup-share.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/components/uni-popup/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/components/uni-popup/i18n/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/components/uni-popup/i18n/zh-Hans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/components/uni-popup/i18n/zh-Hant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/components/uni-popup/keypress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/components/uni-popup/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/components/uni-popup/uni-popup.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-popup/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-rate/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-rate/components/uni-rate/uni-rate.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-rate/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-rate/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-row/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-row/components/uni-col/uni-col.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-row/components/uni-row/uni-row.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-row/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-row/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/styles/index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/styles/setting/_border.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/styles/setting/_color.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/styles/setting/_radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/styles/setting/_space.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/styles/setting/_styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/styles/setting/_text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/styles/setting/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/styles/tools/functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/variables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/variables.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-scss/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-search-bar/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-search-bar/components/uni-search-bar/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-search-bar/components/uni-search-bar/i18n/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-search-bar/components/uni-search-bar/i18n/zh-Hans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-search-bar/components/uni-search-bar/i18n/zh-Hant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-search-bar/components/uni-search-bar/uni-search-bar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-search-bar/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-search-bar/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-section/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-section/components/uni-section/uni-section.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-section/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-section/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-segmented-control/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-segmented-control/components/uni-segmented-control/uni-segmented-control.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-segmented-control/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-segmented-control/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-steps/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-steps/components/uni-steps/uni-steps.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-steps/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-steps/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/components/uni-swipe-action-item/bindingx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/components/uni-swipe-action-item/isPC.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/components/uni-swipe-action-item/mpalipay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/components/uni-swipe-action-item/mpother.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/components/uni-swipe-action-item/mpwxs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/components/uni-swipe-action-item/render.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/components/uni-swipe-action-item/uni-swipe-action-item.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/components/uni-swipe-action-item/wx.wxs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/components/uni-swipe-action/uni-swipe-action.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swipe-action/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swiper-dot/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swiper-dot/components/uni-swiper-dot/uni-swiper-dot.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swiper-dot/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-swiper-dot/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/components/uni-table/uni-table.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/components/uni-tbody/uni-tbody.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/components/uni-td/uni-td.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/components/uni-th/filter-dropdown.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/components/uni-th/uni-th.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/components/uni-thead/uni-thead.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/components/uni-tr/table-checkbox.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/components/uni-tr/uni-tr.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/i18n/en.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/i18n/es.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/i18n/fr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/i18n/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/i18n/zh-Hans.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/i18n/zh-Hant.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-table/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-tag/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-tag/components/uni-tag/uni-tag.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-tag/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-tag/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-test/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-test/components/uni-test/uni-test.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-test/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-test/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-title/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-title/components/uni-title/uni-title.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-title/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-title/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-tooltip/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-tooltip/components/uni-tooltip/uni-tooltip.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-tooltip/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-tooltip/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-transition/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-transition/components/uni-transition/createAnimation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-transition/components/uni-transition/uni-transition.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-transition/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-transition/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-ui/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-ui/components/uni-ui/uni-ui.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-ui/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../小程序/黑马优购/uni_modules/uni-ui/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据1/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据1/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据1/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据1/render.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据1/save.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据2/detail_duplicates.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据2/dishes_info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据2/meal_order_detail.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据2/meal_order_info.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据2/meal_order_info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据2/order_sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据分析/数据2/国民经济核算季度数据.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../油猴插件/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../油猴插件/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/untils/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/坐标验证码识别/h5_login_cookie_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/坐标验证码识别/tell.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/坐标验证码识别/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/学习通/err.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/学习通/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/对接坐标/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/对接坐标/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/手机自动答题/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/手机自动答题/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/手机自动答题/shot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/手机自动答题/template.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/滑块验证码/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/滑块验证码/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/滑块验证码/orgin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../自动化/科目一自动答题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/37网游/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/BigInt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/hook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/jsbn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/rng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/spa6/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/匀速商城/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/升学e网通/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/当乐网/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/微博/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/房天下/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/服务平台/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/服务平台/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/环境/crypto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/环境/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/环境/serve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../逆向/麻将/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../chaojiying.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../chaojiying.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/100-相同的树.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/100-相同的树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/101-对称二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/101-对称二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/110-平树二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/110-平树二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/119-杨辉三角形 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/119-杨辉三角形 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/121-买卖股票.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/121-买卖股票.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/15-三数之和.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/15-三数之和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/2-俩数相加.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/2-俩数相加.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/226-翻转二叉树.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/226-翻转二叉树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/239-滑动窗口最大值.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/239-滑动窗口最大值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/257-二叉树所有路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/257-二叉树所有路径.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/392-判断子序列.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/392-判断子序列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/416-分割等和子集.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/416-分割等和子集.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/46-全排列.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/46-全排列.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/494-目标和.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/494-目标和.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/572-另一棵树的子树.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/572-另一棵树的子树.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/62-不同路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/62-不同路径.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/63-不同路径2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/63-不同路径2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/70-爬楼梯.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leecode题库/70-爬楼梯.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leecode题库/94-二叉树.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../spider/功能/字符串转化/str_replace.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../spider/功能/字符串转化/str_replace.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../spider/功能/字符串转化/str_replaced.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../spider/功能/字符串转化/str_replaced.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-2022年广东省职业院校学生专业技能大赛“融媒体内容制作”（高职组）赛项-样题.part1.rar.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/.env.development" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/.env.development" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/api/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/api/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/components/Hamburger/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/components/Hamburger/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/layout/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/layout/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/layout/components/Sidebar/Logo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/layout/components/Sidebar/Logo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/layout/components/Sidebar/SidebarItem.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/layout/components/Sidebar/SidebarItem.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/layout/components/Sidebar/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/layout/components/Sidebar/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/permission.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/permission.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/store/getters.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/store/getters.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/store/modules/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/store/modules/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/styles/sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/styles/sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/styles/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/styles/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/utils/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/utils/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/utils/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/utils/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/dashboard/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/dashboard/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/form/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/login/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/login/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/nested/menu1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/nested/menu1/menu1-1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/nested/menu1/menu1-2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/nested/menu1/menu1-2/menu1-2-1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/nested/menu1/menu1-2/menu1-2-2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/nested/menu1/menu1-3/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/nested/menu2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/table/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/src/views/tree/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/music/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/music/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vue案例/music/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/music/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../work.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../work.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/basic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/东奥文化/img/Snipaste_2022-10-14_22-54-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/东奥文化/img/Snipaste_2022-10-14_23-06-33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/东奥文化/img/snowgreatwall.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/东奥文化/img/suyiming.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/东奥文化/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/东奥文化/test.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/东奥文化/test.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/东奥文化/test.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/信息传递/h.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/信息传递/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/head-figure-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/header-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/lunbotu1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/lunbotu2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/lunbotu3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/lunbotu4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/img/top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/less/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/less/index.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/less/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/video/lvsedongao.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/video/mailang.webm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/video/pian.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/期末作业/video/xumengtao.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/css/basic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/icont.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/icont/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/icont/demo_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/icont/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/icont/iconfont.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/icont/iconfont.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/icont/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/icont/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/icont/iconfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/js/flexible.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/js/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/less/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/less/index.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/less/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/less/mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/less/mobile.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/less/mobile.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/mobile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/125_skin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/1_skin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/2_skin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/3_skin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/4_skin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/cf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/gswj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/h1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/h10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/h2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/h3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/h4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/h5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/h6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/h7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/h8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/h9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/i.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/icplogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/index.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/l1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/l2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/l3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/l4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/l6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/left.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/lh1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/lh2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/lh3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/lh4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/lh5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/mobile_index.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/r_all2022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/r_dj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/shp.qpic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/shp.qpic2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/shp.qpic3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/shp.qpic4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/shp.qpic5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/spr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/t1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/t2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/t3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/t4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/title_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/v1.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/v2.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/v3.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/v4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/v5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/v6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/v7.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/v8.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/wz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../课堂作业/王者荣耀/png/wzry_qrcode.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../自动化/chaojiying.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../自动化/坐标验证码识别/chaojiying.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2OEomJKD779rd0S4kAik7duPn6C" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "E:/python/save/作品/web/project/reggie",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "fe01ce2a7fbac8fafaed7c982a04e229",
+    "ts.external.directory.path": "E:\\IntelliJ IDEA 2022.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python\save\作品\web\project\reggie\fontEnd\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:5173">
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/font/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+        <item itemvalue="Spring Boot.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="25b7dede-2d32-4ea1-a053-0842f9b1126f" name="变更" comment="" />
+      <created>1681135259759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681135259759</updated>
+      <workItem from="1681135261806" duration="5083000" />
+      <workItem from="1681193575280" duration="660000" />
+      <workItem from="1681302900272" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
