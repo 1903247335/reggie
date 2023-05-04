@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.fontend.mapper.FoodMapper">
+    <insert id="addFood">
+        insert into dish(id, name,
+                         category_id,
+                         price, code,
+                         image,
+                         description,
+                         create_time,
+                         update_time,
+                         create_user,
+                         update_user)
+        VALUES (
+                #{id},
+                #{name},
+                #{categoryId},
+                #{price},
+                #{code},
+                #{image},
+                #{description},
+                #{createTime},
+                #{updateTime},
+                #{createUser},
+                #{updateUser}
+                )
+    </insert>
+    <insert id="addFoodFlavor">
+        insert into dish_flavor(id, dish_id,
+                                name, value,
+                                create_time,
+                                update_time,
+                                create_user,
+                                update_user)
+        VALUES (#{id},
+                #{dishId},
+                #{name},#{value},
+                #{createTime},
+                #{updateTime},#{createUser},#{updateUser})
+    </insert>
+    <update id="updateFood">
+        update dish set name=#{name},
+                        price=#{price},
+                        image=#{image},
+                        description=#{description},
+                        category_id=#{categoryId},
+                        update_time=#{updateTime},
+                        update_user=#{updateUser}
+        where id=#{id}
+
+    </update>
+    <update id="updateFoodFlavor">
+
+            update dish_flavor set name=#{mainFlavor},
+                                   value=#{detailFlavor},
+                                   update_time=#{updateTime},
+                                   update_user=#{updateUser}
+            where dish_id=#{id}
+    </update>
+    <select id="getFoods" resultType="com.example.fontend.entity.Dish">
+            select * from dish
+            <where>
+                <if test="name!=null">
+                    name=#{name}
+                </if>
+
+            </where>
+            limit #{currentIndex},#{pageSize}
+        </select>
+
+    <select id="getDish" resultType="com.example.fontend.dto.DishDto">
+        select * from dish where id=#{id}
+    </select>
+    <select id="getFlavor" resultType="com.example.fontend.entity.DishFlavor">
+        select * from dish_flavor where dish_id=#{id}
+    </select>
+    <select id="getFoodByCategory" resultType="com.example.fontend.entity.Dish">
+        select * from dish where category_id=#{id}
+    </select>
+</mapper>

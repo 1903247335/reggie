@@ -1,0 +1,10 @@
+.contain.data-v-32d305ff {
+  background: #1aad19;
+  height: 80rpx;
+  font-size: 12px;
+  line-height: 80rpx;
+  text-align: center;
+}
+.contain text.data-v-32d305ff {
+  color: white;
+}

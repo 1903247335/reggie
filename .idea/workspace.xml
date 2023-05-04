@@ -344,111 +344,7 @@
       <change afterPath="$PROJECT_DIR$/../blog/blog-parent/blog-admin/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/blog-parent/blog-framework/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../blog/blog-parent/blog-frontend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fontEnd/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../学习案例/学习案例.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/page2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/page3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/page5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/page6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/back6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/bg6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/btn4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/fanhui.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/gril.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/mainbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/promise.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/promisepng.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/result.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/sun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/top.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/xing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/xingxing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/yinle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/亚健康指数.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/js/page2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/js/page3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/js/page6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/page2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/page3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/page5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/page6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/css/basic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/css/p2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/css/p3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/css/p4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/1.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/1small_cattle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/2.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/2left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/2right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/2卡通烟花炮竹火花.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/3.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/4.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/5.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/6.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/7.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/8.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/bg1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/bg2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/bg3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/bg4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/progress_bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/y7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/yinle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/卡通烟花炮竹火花.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/小提示：全部答对获取祝福哦~.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/开始猜灯谜.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/我要猜灯谜.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/打 一 产 品.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/打 一 成 语.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/img/答 对 啦   ！ 拷贝.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/js/p2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/js/p3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/js/p4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/media/2021-2022 - 快捷方式.lnk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/media/lalala.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/media/金牛闹元宵录屏视频.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/p2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/p3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/p4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/录屏/金牛闹元宵录屏视频.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/截图/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/1.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/2.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/3.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/4.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/5.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/6.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/7.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../融媒体练习/2021-2022/任务二/素材/图片/8.psd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/0.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../图像识别/tesseract测试/2.jpg" afterDir="false" />
@@ -973,7 +869,34 @@
       <change beforePath="$PROJECT_DIR$/../../../spider/功能/字符串转化/str_replace.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../spider/功能/字符串转化/str_replace.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../spider/功能/字符串转化/str_replaced.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../spider/功能/字符串转化/str_replaced.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2019-2020高职组移动融媒体应用技术样题.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2020-2021 年广东省职业院校技能大赛高职组“融媒体内容制作”赛项样题.rar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../2021-2022年广东省职业院校学生专业技能大赛“融媒体内容制作”（高职组）赛项-样题.part1.rar.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../20样题.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/src/api/backEnd/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/font/src/api/backEnd/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/src/components/InputForm.vue" beforeDir="false" afterPath="$PROJECT_DIR$/font/src/components/InputForm.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/font/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/src/untils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/font/src/untils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/src/view/back-end/CategoryPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/font/src/view/back-end/CategoryPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/src/view/back-end/ComboPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/font/src/view/back-end/ComboPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/src/view/back-end/FontEndPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/font/src/view/back-end/FontEndPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/src/view/back-end/FoodPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/font/src/view/back-end/FoodPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/font/src/view/back-end/MemberPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/font/src/view/back-end/MemberPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/FontEndApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/FontEndApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/common/JacksonObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/common/JacksonObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/entity/PageResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/entity/PageResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/mapper/EmployeeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/mapper/EmployeeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/untils/untils.java" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/src/main/java/com/example/fontend/untils/untils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fontEnd/src/main/resources/com/example/fontend/mapper/EmployeeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fontEnd/src/main/resources/com/example/fontend/mapper/EmployeeMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/.env.development" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/.env.development" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../vue案例/hrsaas/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/hrsaas/public/index.html" afterDir="false" />
@@ -1014,10 +937,25 @@
       <change beforePath="$PROJECT_DIR$/../../vue案例/music/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/music/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../vue案例/music/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../vue案例/music/src/router/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../work.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../work.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/basic.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/basic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../融媒体练习/2020-2021/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/basic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/2.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/3.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/4.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/5.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/P1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/P2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/P3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/P4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/P4（选中状态）.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/P5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/P6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/img/ball.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/media/亚健康录屏视频.wmv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../融媒体练习/2020-2021/media/背景音乐.mp3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../课堂作业/东奥文化/img/Snipaste_2022-10-14_22-54-03.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../课堂作业/东奥文化/img/Snipaste_2022-10-14_23-06-33.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../课堂作业/东奥文化/img/snowgreatwall.jpeg" beforeDir="false" />
@@ -1195,7 +1133,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "spring.configuration.checksum": "fe01ce2a7fbac8fafaed7c982a04e229",
+    "spring.configuration.checksum": "46a4cc2f33414a2c307eeaac22dda605",
     "ts.external.directory.path": "E:\\IntelliJ IDEA 2022.3.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -1208,6 +1146,13 @@
   <component name="RunManager" selected="npm.serve">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:5173">
       <method v="2" />
+    </configuration>
+    <configuration name="FontEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="backEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.fontend.FontEndApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="demo" />
@@ -1250,6 +1195,8 @@
       <workItem from="1681135261806" duration="5083000" />
       <workItem from="1681193575280" duration="660000" />
       <workItem from="1681302900272" duration="7000" />
+      <workItem from="1682993411865" duration="24000" />
+      <workItem from="1682993455756" duration="36000" />
     </task>
     <servers />
   </component>

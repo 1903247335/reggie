@@ -1,0 +1,17 @@
+.container {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 24px;
+}
+.uni-forms-item__content {
+  display: flex;
+}
+.uni-forms-item__content .uni-easyinput {
+  flex: 3;
+}
+.uni-forms-item__content .uni-easyinput__content-input {
+  height: 80rpx;
+}
+.uni-forms-item__content .send-code {
+  flex: 1;
+}

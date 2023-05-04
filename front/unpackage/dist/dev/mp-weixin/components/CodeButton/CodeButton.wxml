@@ -1,0 +1,1 @@
+<view class="contain data-v-32d305ff"><text wx:if="{{a}}" class="data-v-32d305ff">获取验证码</text><text wx:else class="data-v-32d305ff">{{b}}s</text></view>
