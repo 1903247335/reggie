@@ -8,9 +8,17 @@ const _sfc_main = {
   components: {
     CodeButton
   },
+  mounted() {
+    if (this.$store.state.user.id) {
+      common_vendor.index.switchTab({
+        url: "/pages/index/index"
+      });
+    }
+  },
   data() {
     return {
       codeStatus: true,
+      shopCart: [],
       rules: {
         username: {
           rules: [{
@@ -49,7 +57,6 @@ const _sfc_main = {
     sendCode() {
       this.$refs.form.validateField("username", (valid, message) => {
         if (!valid && this.codeStatus) {
-          console.log("发送");
           api_index.sendMsg(this.form.username);
           this.codeStatus = false;
         }
@@ -59,11 +66,20 @@ const _sfc_main = {
       common_vendor.index.showLoading();
       this.$refs.form.validate().then(async () => {
         const result = await api_index.verifyCode(this.form);
-        console.log(result.data.code);
         if (result.data.code == 1) {
           this.msgType = "success";
           this.messageText = "登录成功";
           this.$refs.message.open();
+          this.$store.dispatch("login", result.data.data);
+          new Promise((resolve, reject) => {
+            setTimeout(() => {
+              resolve();
+            }, 2e3);
+          }).then(() => {
+            common_vendor.index.switchTab({
+              url: "/pages/index/index"
+            });
+          });
         } else {
           this.msgType = "error";
           this.messageText = "验证码错误";

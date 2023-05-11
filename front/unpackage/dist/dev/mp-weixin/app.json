@@ -1,7 +1,10 @@
 {
   "pages": [
+    "pages/login/login",
     "pages/index/index",
-    "pages/login/login"
+    "pages/orderInfo/orderInfo",
+    "pages/addAddress/addAddress",
+    "pages/addressList/addressList"
   ],
   "window": {
     "navigationBarTextStyle": "black",
@@ -12,16 +15,17 @@
   "tabBar": {
     "list": [
       {
-        "iconPath": "static/c1.png",
-        "text": "首页",
-        "pagePath": "pages/index/index"
-      },
-      {
         "iconPath": "static/c2.png",
         "text": "用户",
         "pagePath": "pages/login/login"
+      },
+      {
+        "iconPath": "static/c1.png",
+        "text": "首页",
+        "pagePath": "pages/index/index"
       }
-    ]
+    ],
+    "navigationBarHidden": true
   },
   "usingComponents": {}
 }

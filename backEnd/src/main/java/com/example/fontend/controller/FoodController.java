@@ -61,7 +61,7 @@ public class FoodController {
     public result uploadTemplate(MultipartFile file) throws IOException {
         //图片上传后会临时存储在
         String name=untils.combinationName(file);
-        file.transferTo(new File("E:\\python\\save\\作品\\web\\project\\reggie\\fontEnd\\src\\main\\resources\\static\\image\\"+name));
+        file.transferTo(new File("E:\\python\\save\\作品\\web\\project\\reggie\\backEnd\\src\\main\\resources\\static\\image\\"+name));
         return result.success(name);
         //file.transferTo(new File("E:\\python\\save\\作品\\web\\project\\reggie\\fontEnd\\src\\main\\resources\\static\\image\\"+ UUID.randomUUID()+suffix));
         //String name=foodService.uploadFoodPng(file);
@@ -74,6 +74,7 @@ public class FoodController {
     }
     @RequestMapping(value = "/update-food",method =RequestMethod.POST)
     public result updateFood(@RequestBody DishDto dishDto,HttpServletRequest httpServletRequest) throws IOException {
+
             foodService.updateFood(dishDto,httpServletRequest);
             return result.success();
     }
@@ -82,4 +83,14 @@ public class FoodController {
         List<Dish>dishList=foodService.getFoodByCategory(id);
         return result.success(dishList);
     }
+    @RequestMapping(value = "/delete-food/{id}",method =RequestMethod.GET)
+    public result deleteFood(@PathVariable String id){
+        try {
+            foodService.deleteFood(id);
+            return result.success();
+        }catch (Error e){
+            return result.error();
+        }
+    }
+
 }

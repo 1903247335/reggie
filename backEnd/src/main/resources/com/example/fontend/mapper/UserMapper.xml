@@ -6,6 +6,66 @@
 
     <insert id="createUser">
         insert into user(id, name, phone, sex, id_number, avatar, status)
+
         VALUES (#{id},#{name},#{phone},#{sex},#{idNumber},#{avatar},#{status})
     </insert>
+    <insert id="addShopCart">
+            insert into shopping_cart(id, name, image, user_id, dish_id, setmeal_id, dish_flavor, amount, create_time)
+            VALUES  (#{id},#{name},#{image},#{userId},#{dishId},#{setmealId},#{dishFlavor},#{amount},#{createTime})
+    </insert>
+    <insert id="addOrder">
+        insert into orders(id,
+                           number, status,
+                           user_id, address_book_id,
+                           order_time, checkout_time,
+                           pay_method, amount,
+                           remark, phone, address,
+                           user_name, consignee)
+        VALUES (#{id},
+                #{number},#{status},#{userId},#{addressBookId},#{orderTime},
+                #{checkoutTime},#{payMethod},#{amount},#{remark},#{phone},#{address},#{userName},#{consignee})
+    </insert>
+    <insert id="addOrderDetail">
+        insert into order_detail(id,
+                                 name,
+                                 image,
+                                 order_id,
+                                 dish_id,
+                                 setmeal_id,
+                                 dish_flavor,
+                                 amount)
+        VALUES (#{id}, #{name}, #{image},#{orderId},#{dishId},#{setmealId},#{dishFlavor},#{amount})
+    </insert>
+    <insert id="addAddressBook">
+        insert into address_book(id, user_id,
+                                 consignee, sex, phone,
+                                  province_name,
+                                  city_name,
+                                 district_name, detail,
+                                 update_user,update_time,create_time,create_user
+         ) VALUES(#{id}, #{userId}, #{consignee},
+                  #{sex},#{phone},#{provinceName},#{cityName},#{districtName},#{detail},#{updateUser},#{updateTime},#{createTime},#{createUser})
+    </insert>
+    <update id="updateShopCart">
+        update shopping_cart set number=#{number},amount=#{amount}
+        where
+            <if test="setmealId!=null">
+               setmeal_id=#{setmealId}
+            </if>
+            <if test="dishId!=null">
+                dish_id=#{dishId}
+            </if>
+
+    </update>
+    <delete id="deleteShopCart">
+        delete from shopping_cart where user_id=#{userId} and
+                                        <if test="dishId!=null">
+                                                dish_id=#{dishId}
+                                        </if>
+                                        <if test="setmealId!=null">
+                                            setmeal_id=#{setmealId}
+                                        </if>
+    </delete>
+
+
 </mapper>

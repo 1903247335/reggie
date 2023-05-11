@@ -1,0 +1,97 @@
+.popup-content {
+  width: 450rpx;
+  height: 500rpx;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.popup-content .flavor-contain {
+  height: 300rpx;
+}
+.popup-content .flavor {
+  margin-bottom: 10px;
+}
+.popup-content .title {
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+}
+.popup-content .mainFlavor {
+  margin-bottom: 5px;
+  display: block;
+  font-size: 14px;
+}
+.popup-content .tag {
+  margin-right: 10px;
+  margin-top: 2px;
+}
+.popup-content .bottom {
+  height: 100rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.popup-content .bottom text {
+  color: #c58a79;
+}
+.popup-content .bottom .add-cart,
+.popup-content .bottom .scale {
+  border-radius: 10px;
+  padding: 0;
+  width: 70px;
+  height: 30px;
+  background: #ffc00b;
+  margin: 0;
+}
+.contain {
+  margin-top: 10px;
+  display: flex;
+}
+.contain .left {
+  width: 35%;
+  height: auto;
+}
+.contain .left image {
+  width: 100%;
+  height: 100%;
+}
+.contain .right {
+  width: 65%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.contain .right .title {
+  font-size: 16px;
+  font-weight: bold;
+}
+.contain .right .introduction {
+  margin-top: 10px;
+  display: block;
+  font-size: 13px;
+  color: #d0cbd1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.contain .right .bottom {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.contain .right .bottom .scale {
+  border-radius: 10px;
+  padding: 0;
+  width: 70px;
+  height: 30px;
+  background: #ffc00b;
+  margin: 0;
+}
+.contain .right .bottom .price {
+  font-size: 16px;
+  color: #d47b5b;
+}
+.contain .right .bottom .add {
+  width: 30px;
+  height: 30px;
+}

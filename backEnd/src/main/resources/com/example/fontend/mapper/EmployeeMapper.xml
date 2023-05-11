@@ -5,7 +5,7 @@
 <mapper namespace="com.example.fontend.mapper.EmployeeMapper">
     <update id="updateEmployee">
 
-        update employee set username=#{username},name=#{name},phone=#{phone},sex=#{sex},id_number=#{idNumber} where username=#{username}
+        update employee set username=#{username},name=#{name},phone=#{phone},sex=#{sex},id_number=#{idNumber} where id=#{id}
     </update>
     <select id="getEmployee"  resultType="com.example.fontend.entity.Employee">
         SELECT * FROM employee
@@ -26,7 +26,8 @@
         SELECT * FROM employee
         <where>
             <if test="name!=null">
-                name=#{name}
+
+                 name like concat("%",#{name},"%")
             </if>
 
         </where>

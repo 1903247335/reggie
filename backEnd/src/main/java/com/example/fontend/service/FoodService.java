@@ -58,13 +58,24 @@ public class FoodService {
         dishDto.setUpdateTime(LocalDateTime.now());
         Long id=Long.parseLong((String)httpServletRequest.getSession().getAttribute("id"));
         dishDto.setUpdateUser(id);
+
         foodMapper.updateFood(dishDto);
         log.info("{}",dishDto);
-        untils.uploadFoodPng(dishDto.getImage());
-        foodMapper.updateFoodFlavor(dishDto);
+        if(dishDto.getImage()!=null) {
+            untils.uploadFoodPng(dishDto.getImage());
+        }
+        if(dishDto.getDetailFlavor()!=null){
+            foodMapper.updateFoodFlavor(dishDto);
+        }
+
     }
 
     public List<Dish> getFoodByCategory(String id) {
         return foodMapper.getFoodByCategory(id);
+    }
+
+    public void deleteFood(String id) {
+        foodMapper.deleteFood(id);
+        foodMapper.deleteFoodFlavor(id);
     }
 }

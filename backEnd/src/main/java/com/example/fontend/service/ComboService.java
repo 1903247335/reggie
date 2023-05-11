@@ -32,7 +32,9 @@ public class ComboService {
     public void addCombo(HttpServletRequest request, ComboDto comboDto) {
         log.info("{}",comboDto);
         comboMapper.addCombo(comboDto);
+
         List<DishDto>comboList=comboDto.getComboList();
+
         comboList.stream().forEach((item)->{
             SetmealDish setmealDish=new SetmealDish();
             setmealDish.setId(untils.createdUUID());
@@ -43,6 +45,7 @@ public class ComboService {
             setmealDish.setCopies(item.getCount());
             setmealDish.setSort(0);
             PublicFill.fill(request,setmealDish);
+            //添加到setmealdish
             comboMapper.addComboDish(setmealDish);
         });
 

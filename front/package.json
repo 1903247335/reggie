@@ -1,23 +1,9 @@
 {
-  "name": "front",
-  "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
-  "dependencies": {
-    "asynckit": "^0.4.0",
-    "axios": "^1.4.0",
-    "combined-stream": "^1.0.8",
-    "delayed-stream": "^1.0.0",
-    "follow-redirects": "^1.15.2",
-    "form-data": "^4.0.0",
-    "mime-db": "^1.52.0",
-    "mime-types": "^2.1.35",
-    "proxy-from-env": "^1.1.0",
-    "uniapp-axios-adapter": "^0.3.2"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "id": "shopwind-multpicker",
+    "name": "通用性封装三级联动，可支持任意模型（如地区联动，分类联动）",
+    "version": "v1.0.1",
+    "description": "支持地区省、市、区三级联动，也可以支持任意模型如商品分类的三级联动，一个组件即可完成，使用简单，包括从后台读取数据也给出实现代码",
+    "keywords": [
+        "picker"
+    ]
 }

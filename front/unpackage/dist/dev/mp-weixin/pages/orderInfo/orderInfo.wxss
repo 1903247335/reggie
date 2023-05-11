@@ -1,0 +1,59 @@
+.orderInfo-contain {
+  padding: 10px;
+}
+.order-head {
+  background-color: white;
+  padding: 15px;
+}
+.predict-time {
+  margin-top: 20rpx;
+  font-size: 12px;
+  color: gray;
+}
+.order-main {
+  background: white;
+  padding: 10px;
+}
+.order-main .remarks {
+  margin-top: 40rpx;
+}
+.order-main .remarks .title text {
+  font-weight: bold;
+}
+.order-main .remarks textarea {
+  margin-top: 20px;
+}
+.order-main .list {
+  margin-top: 40rpx;
+}
+.order-main .list .item {
+  display: flex;
+}
+.order-main .list .item .left {
+  width: 180rpx;
+  height: 180rpx;
+  margin-right: 10rpx;
+}
+.order-main .list .item .left image {
+  width: 100%;
+  height: 100%;
+}
+.order-main .list .item .right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+.order-main .list .item .right .name {
+  font-weight: bold;
+}
+.order-main .list .item .right .bottom {
+  display: flex;
+  justify-content: space-between;
+}
+.order-main .list .item .right .bottom .number {
+  font-size: 12px;
+}
+.order-main .list .item .right .bottom .price {
+  color: #cf7865;
+}

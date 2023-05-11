@@ -30,4 +30,8 @@ public interface FoodMapper {
     void updateFoodFlavor(DishDto dishDto);
 
     List<Dish> getFoodByCategory(String id);
+
+    void deleteFood(String id);
+
+    void deleteFoodFlavor(String id);
 }

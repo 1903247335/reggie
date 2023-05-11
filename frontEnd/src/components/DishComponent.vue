@@ -99,7 +99,7 @@
 <script setup>
 
 import {router} from "@/router";
-import {onMounted, reactive, ref, watch,defineProps} from "vue";
+import {onMounted, reactive, ref,defineProps} from "vue";
 import {sendAddFood, sendGetCategoriesByType, sendGetFood, sendUpdateFood} from "@/api/backEnd";
 import {ElMessage} from "element-plus";
 import {deepCopy, isUpdateList} from "@/untils";

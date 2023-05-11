@@ -43,22 +43,36 @@
     <update id="updateFood">
         update dish set name=#{name},
                         price=#{price},
-                        image=#{image},
                         description=#{description},
+
                         category_id=#{categoryId},
                         update_time=#{updateTime},
-                        update_user=#{updateUser}
+                        update_user=#{updateUser},
+                        <if test="image!=null">
+                            image=#{image}
+
+                        </if>
         where id=#{id}
 
     </update>
     <update id="updateFoodFlavor">
 
             update dish_flavor set name=#{mainFlavor},
-                                   value=#{detailFlavor},
+
+
                                    update_time=#{updateTime},
-                                   update_user=#{updateUser}
+                                   update_user=#{updateUser},
+                               <if test="detailFlavor!=null">
+                                   value=#{detailFlavor}
+                               </if>
             where dish_id=#{id}
     </update>
+    <delete id="deleteFood">
+        delete from dish where id=#{id}
+    </delete>
+    <delete id="deleteFoodFlavor">
+        delete from dish_flavor where dish_id=#{id}
+    </delete>
     <select id="getFoods" resultType="com.example.fontend.entity.Dish">
             select * from dish
             <where>

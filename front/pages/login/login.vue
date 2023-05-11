@@ -27,13 +27,24 @@
 	import
 	CodeButton
 	from "../../components/CodeButton/CodeButton.vue"
+
 	export default {
 		components: {
 			CodeButton
 		},
+		mounted() {
+			//user {"id":"21232097404734","name":"1668694954@qq.com","phone":"1668694954@qq.com","sex":"0","idNumber":"","avatar":null,"status":1}
+
+			if (this.$store.state.user.id) {
+				uni.switchTab({
+					url: "/pages/index/index"
+				})
+			}
+		},
 		data() {
 			return {
 				codeStatus: true,
+				shopCart: [],
 				rules: {
 
 					username: {
@@ -69,11 +80,13 @@
 		onReady() {
 			this.$refs.form.setRules(this.rules)
 		},
+
 		methods: {
+
 			sendCode() {
 				this.$refs.form.validateField('username', (valid, message) => {
 					if (!valid && this.codeStatus) {
-						console.log("发送")
+
 						sendMsg(this.form.username)
 						this.codeStatus = false
 					}
@@ -84,11 +97,22 @@
 				this.$refs.form.validate().then(async () => {
 					const result = await verifyCode(this.form)
 
-					console.log(result.data.code)
+
 					if (result.data.code == 1) {
 						this.msgType = "success"
 						this.messageText = "登录成功"
 						this.$refs.message.open()
+						this.$store.dispatch("login", result.data.data)
+						new Promise((resolve, reject) => {
+							setTimeout(() => {
+								resolve()
+							}, 2000)
+						}).then(() => {
+
+							uni.switchTab({
+								url: "/pages/index/index"
+							})
+						})
 					} else {
 						this.msgType = "error"
 						this.messageText = "验证码错误"
@@ -105,7 +129,8 @@
 
 
 
-		}
+		},
+
 	}
 </script>
 
