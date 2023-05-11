@@ -13,7 +13,7 @@ export const backEndLogin=(data)=>{
 export const addEmployee=(data)=>{
 
     return axiosBasic({
-        url:"/font-end/add-employees",
+        url:"/font-end/add-employee",
         method:'post',
         data
     })
@@ -22,7 +22,7 @@ export const addEmployee=(data)=>{
 export const getEmployeeList=(params)=>{
     if (params.name){
         return axiosBasic({
-            url:"/font-end/get-employee",
+            url:"/font-end/get-employees",
             method:'get',
             params
         })
@@ -72,6 +72,12 @@ export const sendAddCategory=(data)=>{
         url:"/font-end/add-category",
         method:"POST",
         data
+    })
+}
+
+export  const sendDeleteDish=(id)=>{
+    return axiosBasic({
+        url:"font-end/delete-food/"+id
     })
 }
 

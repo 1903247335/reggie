@@ -48,12 +48,13 @@
           </el-button>
         </el-col>
         <el-col >
-          <el-select v-model="form.mainFlavor" class="m-2" placeholder="选择你的口味" size="large" v-if="chooseShow">
+          <el-select @change="changeSelect" v-model="form.mainFlavor" class="m-2" placeholder="选择你的口味" size="large" v-if="chooseShow">
             <el-option
                 v-for="(item,index) in flavorList"
                 :key="index"
                 :label="item.type"
                 :value="item.type"
+
             />
 
           </el-select>
@@ -160,17 +161,7 @@ let form=reactive({
   detailFlavor:[]
 })
 
-watch(()=>form.mainFlavor,()=>{//当味道选择的时候会显示出详细选项
 
-  flavorList.value.forEach((item)=>{
-    if(item.type==form.mainFlavor){
-      form.detailFlavor=item.detail
-    }
-  })
-
-
-
-})
 const categoryDish=ref([])
 const getCategory=async()=>{
   //获得菜品种类
@@ -187,7 +178,13 @@ const addFood=()=>{
       return false
     }else{
       formRef.value.validate().then(async()=>{
-
+        if(form.image==oldForm.image){
+          form.image=null
+        }
+        if(form.detailFlavor==oldForm.detailFlavor){
+          form.detailFlavor=null
+        }
+        console.log(form)
         const result=await sendUpdateFood(form)
         if(result.data.code==1){
           ElMessage.success("添加成功")
@@ -216,6 +213,17 @@ const addFood=()=>{
 
 
 }
+
+const changeSelect=(value)=>{
+  form.mainFlavor=value
+  flavorList.value.forEach((item)=> {
+
+    if (item.type == form.mainFlavor) {
+      form.detailFlavor = item.detail
+    }
+  })
+}
+
 const flavorBtn=()=>{
   //添加口味的按钮
   chooseShow.value=true
@@ -271,7 +279,10 @@ const getFood=async(id)=>{
   form.description=data.description
   form.mainFlavor=data.mainFlavor
   form.detailFlavor=JSON.parse(data.detailFlavor)
+  console.log("获得的内容",form)
   srcTemplate.value=form.image
+
+
   deepCopy(oldForm,form)//把form拷贝到oldform中
 }
 

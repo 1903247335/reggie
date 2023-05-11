@@ -2,7 +2,7 @@
   <div class="contain">
     <el-row justify="space-between">
       <el-col :span="4">
-        <el-input :prefix-icon="Search"  placeholder="输入员工姓名" v-model="queryPage.name" style="width: 75%"></el-input>
+        <el-input :prefix-icon="Search" :model-value="queryPage.name"  placeholder="输入员工姓名" v-model="queryPage.name" style="width: 75%"></el-input>
         <el-button @click="loadEmployeeList" type="primary" style="width: 25%" >查询</el-button>
       </el-col>
       <el-col :span="4">

@@ -37,7 +37,7 @@
           <template v-slot="{row}">
 
           <el-button type="primary" @click="editBtn(row)">编辑</el-button>
-          <el-button type="danger">删除</el-button>
+          <el-button type="danger" @click="deleteBtn(row)">删除</el-button>
           </template>
 
         </el-table-column>
@@ -53,7 +53,8 @@
 
 import {router} from "@/router";
 import {onMounted, reactive, ref} from "vue";
-import {sendGetFoods} from "@/api/backEnd";
+import {sendDeleteDish, sendGetFoods} from "@/api/backEnd";
+import {ElMessage} from "element-plus";
 
 
 const src=ref("https://1903247335-1316551243.cos.ap-guangzhou.myqcloud.com/");
@@ -63,6 +64,16 @@ const page=reactive({
   toTal:0,
 })
 const foods=ref([])
+
+const deleteBtn=async(row)=>{
+  const result=await sendDeleteDish(row.id)
+  if(result.data.code==1){
+    ElMessage.success("删除成功")
+    getFoods()
+  }else{
+    ElMessage.error("删除失败")
+  }
+}
 const getFoods=async(currentPage)=>{
 
   if (currentPage){

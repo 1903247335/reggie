@@ -91,7 +91,7 @@ const validateIdNumber=(rule,value,callback)=>{
 
 const formRef=ref()
 const form=reactive({
-
+  id:"",
   username:'',
   name:'',
   phone:'',
@@ -202,12 +202,14 @@ const saveAddContinue=()=>{
   }
 
   onMounted(()=>{
+    form.id=router.currentRoute.value.query.id
     if(props.typeComponent=="Edit"){
 
       loadEmployee()
     }
 
   })
+
 
 </script>
 
